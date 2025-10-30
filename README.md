@@ -1,7 +1,7 @@
 # 💼 Welcome to Tech Job Openings Dashboard!
 
 🌐 **Example Website:**  
-https://vercel.com/gautameshaans-projects/card-project-43y6
+https://card-project-43y6.vercel.app/
 
 ---
 
