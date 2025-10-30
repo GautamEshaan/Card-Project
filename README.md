@@ -1,7 +1,7 @@
 # 💼 Welcome to Tech Job Openings Dashboard!
 
 🌐 **Example Website:**  
-[http://localhost:5173/](http://localhost:5173/)
+https://vercel.com/gautameshaans-projects/card-project-43y6
 
 ---
 
